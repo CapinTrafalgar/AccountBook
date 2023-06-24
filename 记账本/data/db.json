@@ -1,0 +1,43 @@
+{
+  "accounts": [
+    {
+      "id": "OlFKnKTNa",
+      "title": "吃饭",
+      "time": "2023-06-03",
+      "type": "-1",
+      "account": "30",
+      "remarks": ""
+    },
+    {
+      "id": "ckT4C0E8N",
+      "title": "吃饭",
+      "time": "2023-06-02",
+      "type": "-1",
+      "account": "30",
+      "remarks": "晚饭"
+    },
+    {
+      "id": "zqivJDVdR",
+      "title": "发工资",
+      "time": "2023-06-01",
+      "type": "1",
+      "account": "6000",
+      "remarks": "发工资"
+    },
+    {
+      "id": "u4NtpyUr_",
+      "title": "买自行车",
+      "time": "2023-06-11",
+      "type": "-1",
+      "account": "5000",
+      "remarks": "买了一辆自行车"
+    },
+    {
+      "title": "发工资",
+      "time": "2023-06-03",
+      "type": "1",
+      "account": "5000",
+      "remarks": "发工资"
+    }
+  ]
+}
